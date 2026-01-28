@@ -10,5 +10,13 @@ public class Car {
         this.power = power;
     }
 
+    public static void brake() {
+        System.out.println("The vehicle is braking.");
+    }
+
+    public void accelerate() {
+        System.out.println("The vehicle is accelerating.");
+    }
+
 }
 
