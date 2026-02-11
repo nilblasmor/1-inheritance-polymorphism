@@ -12,7 +12,6 @@ A system is designed to manage musical instruments in a band. All instruments sh
   - `StringInstrument`  
   - `PercussionInstrument`
 - The `main()` method creates one instance of each instrument type and invokes `play()` to demonstrate polymorphic behavior.
-- **Class loading** is explored through static blocks and initialization blocks, documenting when each executes.
 
 ### Level 1 — Exercise 2: Car Class
 
